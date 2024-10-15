@@ -6,11 +6,11 @@ exports[`Pruebas en GifItem Debe de hacer match con el Snapshot 1`] = `
     class="card"
   >
     <img
-      alt="Titulo"
+      alt="Hola"
       src="https://giphy.com/embed/hs67xo8fGYfx5KlBgV"
     />
     <p>
-      Titulo
+      Hola
     </p>
   </div>
 </div>
